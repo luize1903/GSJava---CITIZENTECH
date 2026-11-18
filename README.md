@@ -10,7 +10,7 @@ Lívia RM562967: Domínio e exceções
 Sarah  RM563841 : Persistência 
 Luize  RM564016 : Previsões, alertas e testes 
 
-**GitHub:** https://github.com/trolezisarah/GS2026_Java.git
+**GitHub:** https://github.com/luize1903/GSJava---CITIZENTECH
 
 ## Sobre o projeto
 
