@@ -71,8 +71,6 @@ Utilizamos IA como ferramenta de apoio para esclarecer dúvidas, compreender con
 
 As sugestões foram revisadas pela equipe de acordo com os requisitos do projeto.
 
-**Observação:** confirmar com as integrantes se esta descrição corresponde ao uso real de IA.
-
 ## Divisão de tarefas
 
 **Lívia — RM562967:** desenvolvimento das classes de domínio, sensores, interfaces e exceções personalizadas.
